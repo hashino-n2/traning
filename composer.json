@@ -1,6 +1,5 @@
 {
     "name": "hsn1125/traning",
-    "version": "1.1.1",
     "description": "Composerサンプルプロジェクト",
     "license": "MIT",
     "autoload": {
