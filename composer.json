@@ -1,6 +1,6 @@
 {
     "name": "hsn1125/traning",
-    "minimum-stability": "stubs",
+    "version": "1.0",
     "description": "Composerサンプルプロジェクト",
     "license": "MIT",
     "autoload": {
