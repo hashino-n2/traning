@@ -1,0 +1,11 @@
+{
+    "name": "sample-vendor/ralabel",
+    "description": "Composerサンプルプロジェクト",
+    "minimum-stability": "stub",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Ralabel\\": "src/"
+        }
+    }
+}
